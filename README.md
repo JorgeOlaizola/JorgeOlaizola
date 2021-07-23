@@ -28,7 +28,7 @@
 <img align="center" src="https://res.cloudinary.com/mecompany/image/upload/v1626749765/gunqq5jhi9wkk9jx0ny0.jpg" height="200" width="300" />
   </a>
     <br></br>
-  <a href="https://pi-videogames-ft-13.vercel.app/home">
+  <a href="https://pi-videogames-ft-13.vercel.app">
     <p>Henry Videogames</p>
     
   <p>
