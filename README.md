@@ -16,3 +16,12 @@
   <code><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" height="30"/></a></code>
  <code><a href="https://nextjs.org/m" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCGn8wTFCU939zgtj5OlUM9_Z8iru0n7AvxTnDpUB7MdnQ5hLNxX6r5w-cPKSWzNeJ7Q&usqp=CAU" alt="Nextjs" height="30"/></a></code>
   </p>
+
+<h3 align="left">Contact:</h3>
+
+ <a href="https://www.linkedin.com/in/jorge-olaizola/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/LinkedinBlack.png/640px-LinkedinBlack.png" alt="linkedin" height="100"/>
+  
+  <a href="mailto: jorgelolaizola@hotmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Breezeicons-actions-22-mail-forwarded.svg/640px-Breezeicons-actions-22-mail-forwarded.svg.png" alt="e-mail" height="100"/>       
+  </a>
