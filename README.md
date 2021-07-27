@@ -34,7 +34,7 @@
   <p>
     
  </p>
-<img align="center" src="https://res.cloudinary.com/jorgeleandroolaizola/image/upload/v1627050087/LogoHenry_rfiwpz.png" height="200" width="300" />
+<img align="center" src="https://res.cloudinary.com/jorgeleandroolaizola/image/upload/v1627050087/LogoHenry_rfiwpz.png" height="200" width="500" />
   </a>
 </p>
       <hr>
