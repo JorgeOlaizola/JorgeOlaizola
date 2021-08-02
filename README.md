@@ -1,5 +1,4 @@
 # JorgeOlaizola
-<br></br>
 Hola! Soy Jorge y vivo en CABA, Argentina. Desde que tengo memoria, me relaciono diariamente con la tecnología. A los 5 años ya me encontraba aprendiendo como manejar una computadora para jugar videojuegos. Con el tiempo, fui utilizando los conocimientos que adquirí para otros motivos, por ejemplo, aprendí edición básica de video con 9 años y a usar photoshop con 11. Mas adelante aprendí sobre reparación de hardware y software para poder profundizar mi entendimiento de la tecnología. A principios de 2021 comencé a estudiar desarrollo web full stack en Henry y terminé en Julio de ese mismo año. En este perfil, vas a ver los proyectos que realicé y como fui evolucionando con el pasar del tiempo. Lo que mas me apasiona de este mundo es que los desafíos nunca se acaban y siempre puedo proponerme aprender algo nuevo, o hacer las cosas cada vez mejor. Bienvenido a mi perfil!
 <br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeOlaizola&count_private=true&theme=onedark)
